@@ -4,19 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b276c35-8352-44b4-be0a-aa1c1abaca4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmering3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="8b276c35-8352-44b4-be0a-aa1c1abaca4b" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/src/Kapitel01/ovning_110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel01/ovning_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel01/ovning_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel01/ovning_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel01/ovning_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel01/ovning_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel01/uppgift_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +43,12 @@
   "keyToString": {
     "Application.Hej.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.ovning_110.executor": "Run",
+    "Application.ovning_16.executor": "Run",
+    "Application.ovning_17.executor": "Run",
+    "Application.ovning_18.executor": "Run",
+    "Application.ovning_19.executor": "Run",
+    "Application.Övning_1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -46,6 +61,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Anton/OneDrive/Nackademin/Programmering3/src/Main.java",
+    "settings.editor.selected.configurable": "proofread",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,11 +81,24 @@
       <option name="presentableId" value="Default" />
       <updated>1704274697493</updated>
       <workItem from="1704274698744" duration="2544000" />
-      <workItem from="1704353974283" duration="1908000" />
+      <workItem from="1704353974283" duration="3698000" />
+      <workItem from="1704629852374" duration="4513000" />
     </task>
+    <task id="LOCAL−00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1704356946246</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1704356946246</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
